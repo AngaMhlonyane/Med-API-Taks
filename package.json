@@ -1,0 +1,23 @@
+{
+  "name": "swap-api",
+  "version": "1.0.0",
+  "description": "Api Task",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "SWAP-API"
+  },
+  "author": "Anga Mhlonyane",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.3",
+    "git": "^0.1.5",
+    "github": "^14.0.0",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.2.0"
+  }
+}
